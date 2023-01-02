@@ -1,0 +1,14 @@
+Name of the student : Agnik Sarkar 
+Class Roll of the student : 07 
+Stream of the student : CSE 
+Your Student ID is : CSE2061
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 70 
+Marks obtained in Physics is : 65 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 67 
+Marks obtained in English is : 79 
+
+You have got 368 in total with 61%
+Good Performance... You have passed the exam with grade C.
